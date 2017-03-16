@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-tdd-rspec-and-learn-bootcamp-prep-000",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayerik/intro-to-tdd-rspec-and-learn-bootcamp-prep-000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayerik/intro-to-tdd-rspec-and-learn-bootcamp-prep-000/issues"
+  },
+  "homepage": "https://github.com/ayerik/intro-to-tdd-rspec-and-learn-bootcamp-prep-000#readme"
+}
