@@ -7,6 +7,7 @@
 3. Run tests via the `learn` command.
 4. Understand test output.
 5. Write code to make test pass.
+6. to check if its all working!
 
 ### What's a Test?
 
