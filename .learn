@@ -1,10 +1,12 @@
-tags:
-  - rspec
-  - tdd
-  - intro
-  - methods
-  - arguments
-  - return values
-resources: 0
-languages:
-  - ruby
+.DS_Store
+.idea
+.editorconfig
+
+log
+node_modules
+out
+tmp
+
+*.iml
+*.log
+*.swp
